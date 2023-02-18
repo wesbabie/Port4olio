@@ -14,13 +14,12 @@ body{
 }
 nav{
     position: relative;
-    opacity:100;
+    z-index: 99;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #30334f;
     color: #fff;
-    padding: 2% 11%;
+   padding: 1rem 1.5rem;
 }
 nav h1{
     letter-spacing: 5px;
@@ -63,7 +62,7 @@ nav h1:hover{
 }
 .mobile-menu{
     position:fixed;
-    top: 0;
+    top: 10px;
     right: 0;
     width: 100%;
     height: 100%;
