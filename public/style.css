@@ -14,6 +14,7 @@ body{
 }
 nav{
     position: relative;
+    opacity:100;
     display: flex;
     justify-content: space-between;
     align-items: center;
