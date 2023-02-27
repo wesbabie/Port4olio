@@ -10,6 +10,7 @@ export default function About() {
             <p className="text-xl leading-normal">
               Hi! i’m Odunayo Fatunsi, i am a graduate of computer science from
               Achievers University, Owo, Ondo State, Nigeria.
+              
             </p>
             <p className="text-xl leading-normal">
               I’ve always had interest in things that concerns the internet, how
@@ -23,7 +24,7 @@ export default function About() {
           </div>
 
           <img
-            src={require("../images/me.png")}
+            src={require("../images/Group 46.png")}
             alt="boy"
             width={500}
             height={500}
