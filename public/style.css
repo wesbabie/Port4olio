@@ -171,10 +171,10 @@ nav h1:hover{
     .single_card{
        background-color: #394298;
        margin-bottom: 30px;
-       width: 410\\px;
+       /* width: 410px; */
        height: 237px;
        padding: 21px 21px;
-       margin-right: 30px;
+       /* margin-right: 30px; */
     }
     .single_card h3{
         margin-top: 15px;
@@ -203,8 +203,8 @@ nav h1:hover{
     .card{
         background-color: #394298;
         margin-top: 30px;
-        margin-right: 30px;
-        width: 326px;
+        /* margin-right: 30px; */
+        /* width: 326px; */
         height: 285px;
         padding: 36px 22.62px 0;
     }
