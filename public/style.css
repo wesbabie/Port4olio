@@ -145,24 +145,28 @@ nav h1:hover{
         color: white;
         padding: 4% 11%;
         align-items: center;
+        
     }
     .skills h1{
-        width: fit-content !important;
+        text-align: center;
     }
     .skill_list{
         display: flex;
         flex-direction: column;
         /* justify-content: space-between; */
-        /* align-items: center; */
-        padding-top: 40px;
+        align-items: center;
+        padding-top: 20px;
     }
     .skill_list .pee{
        width: 100%;
-       margin: 30px 0;
+       margin: 10px 0 30px;
+       text-align: left;
+       text-justify: distribute;
     }
     .skill_card{
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
     }
     .single_card{
        background-color: #394298;
