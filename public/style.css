@@ -110,7 +110,7 @@ nav h1:hover{
 
     }
     .about{
-        padding: 30% 10%;
+        padding: 10% 10% !important;
         display: flex;
         align-items: center;
         flex-direction: column;
@@ -237,6 +237,7 @@ nav h1:hover{
         background-color: #394298;
         outline: none;
         padding: 15px 30px;
+        z-index: 1;
     }
     .socials{
         color: #8F93F3;
