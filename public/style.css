@@ -4,22 +4,22 @@
     box-sizing: border-box;
     font-family: 'montserrat';
 }
-/* header{
+header{
     position:fixed;
     width:100%;
-    opacity: 90%;
-} */
+    /* opacity: 90%; */
+}
 body{
     background-color: #eee;
 }
 nav{
     position: relative;
-    z-index: 99;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #30334f;
     color: #fff;
-   padding: 1rem 1.5rem;
+    padding: 2% 11%;
 }
 nav h1{
     letter-spacing: 5px;
