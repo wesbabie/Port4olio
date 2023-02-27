@@ -62,11 +62,7 @@ nav h1:hover{
 }
 .mobile-menu{
     position:fixed;
-<<<<<<< HEAD
     top: 1;
-=======
-    top: 10px;
->>>>>>> d735bd8f25c1a926941ba15dbcf7b03b27632377
     right: 0;
     width: 50%;
     height: 100%;
